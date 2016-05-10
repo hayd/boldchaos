@@ -4,13 +4,13 @@ email: andy@boldchaos.com
 description:
   Coming soon
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://boldchaos.com" # the base hostname & protocol for your site
 
 # User setting
 owner: Andy Hayden
 email: andy@boldchaos.com
-facebook_username: none
-twitter_username: boldchaos
+facebook_username:
+twitter_username: BoldChaos
 github_username: hayd
 stackoverflow_username: 1240268/andy-hayden
 address:
