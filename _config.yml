@@ -1,0 +1,27 @@
+# Site settings
+title: Bold Chaos
+email: andy@boldchaos.com
+description:
+  Coming soon
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Andy Hayden
+email: andy@boldchaos.com
+facebook_username: none
+twitter_username: boldchaos
+github_username: hayd
+stackoverflow_username: 1240268/andy-hayden
+address:
+  - line: North Beach
+  - line: San Francisco, CA
+  # Feel free to add more lines here
+telephone:
+copyright: boldchaos
+
+# API settings
+google_api_key: AIzaSyD25bdfbXahG-2v6HP-hi4QF4WOKb0pEYQ
+
+# Build settings
+markdown: kramdown
