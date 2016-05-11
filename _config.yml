@@ -1,8 +1,5 @@
 # Site settings
-title: Bold Chaos
 email: andy@boldchaos.com
-description:
-  Coming soon
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://boldchaos.com" # the base hostname & protocol for your site
 
@@ -18,7 +15,7 @@ address:
   - line: San Francisco, CA
   # Feel free to add more lines here
 telephone:
-copyright: boldchaos
+copyright: Bold Chaos
 
 # API settings
 google_api_key: AIzaSyD25bdfbXahG-2v6HP-hi4QF4WOKb0pEYQ
