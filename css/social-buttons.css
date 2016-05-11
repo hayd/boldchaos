@@ -1,0 +1,16 @@
+.fa-github, .fa-twitter, .fa-stack-overflow {
+  a:link{color:inherit};
+  a:active{color:inherit};
+  a:visited{color:inherit};
+  a:hover{color:black};
+  color:grey;
+}
+.fa-github:hover {
+  color:black;
+}
+.fa-twitter:hover {
+  color:cyan;
+}
+.fa-stack-overflow:hover {
+  color:orange;
+}
